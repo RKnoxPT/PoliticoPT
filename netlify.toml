@@ -1,7 +1,7 @@
-[build]
-  command = "jekyll build"
-  publish = "_site"
+#[build]
+ # command = "jekyll build"
+  #publish = "_site"
 
-[build.environment]
-  JEKYLL_ENV = "production"
-  PAGES_REPO_NWO = "RKnoxPT/PoliticoPT"
+#[build.environment]
+ # JEKYLL_ENV = "production"
+  #PAGES_REPO_NWO = "RKnoxPT/PoliticoPT"
